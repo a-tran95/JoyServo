@@ -1,4 +1,4 @@
-# Joystick-Controlled Servo Motor#
+# Joystick-Controlled Servo Motor
 This project allows the user to control the speed and direction of travel of a MG90s servo using an arcade joystick
 
 ## Components Used
